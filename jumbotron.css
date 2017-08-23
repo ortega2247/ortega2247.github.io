@@ -13,10 +13,10 @@ body {
 }
 
 .row-padded {
-  margin-top: 20px;
+  margin-top: 5px;
   padding: 35px;
-  background-color: #F7F7F7;
-  border: 1px solid #DDD;
+  /*background-color: #F7F7F7;*/
+  /*border: 1px solid #DDD;*/
 }
 
 .nav-justified {
